@@ -104,6 +104,16 @@
   transform: translateZ(0);
 }
 
+.minerals {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: relative;
+  gap: 2rem;
+  padding: 4rem 0;
+}
+
 .logo {
   position: relative;
 }

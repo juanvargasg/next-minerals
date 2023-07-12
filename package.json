@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@credijusto/minerals": "^2.55.1",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
